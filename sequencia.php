@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sequência de Fibonacci</title>
     <style>
-        body {
+    body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #7B68EE;
+    text-align: center;
 }
 
 .container {
@@ -35,7 +36,7 @@ label {
 }
 
 input[type="number"] {
-    width: 100%;
+    width: 10%;
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
@@ -43,7 +44,7 @@ input[type="number"] {
 
 button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: 	#9370DB;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -51,7 +52,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #8A2BE2;
 }
 
 h2 {
@@ -65,13 +66,12 @@ ul {
 }
 
 li {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 p {
     color: red;
 }
-
     </style>
 </head>
 <body>
